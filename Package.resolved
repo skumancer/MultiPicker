@@ -10,12 +10,12 @@
       }
     },
     {
-      "identity" : "helpers",
+      "identity" : "mphelpers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/toastersocks/Helpers.git",
+      "location" : "https://github.com/skumancer/MPHelpers",
       "state" : {
-        "revision" : "ae8fe3d43f72082cd4a67a0e9791fa982aa90d54",
-        "version" : "0.6.0"
+        "branch" : "main",
+        "revision" : "2afaa1b787a36875837da015863eb54d6bce8248"
       }
     }
   ],
