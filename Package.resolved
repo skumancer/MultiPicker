@@ -1,5 +1,5 @@
 {
-  "originHash" : "b7147a833df59c1715cccf58b26f291786be88537dbd966f8659b4794fcb700b",
+  "originHash" : "a8767a95e0528b07cbdaa96b60187c1faf493c63a0c02d5df46843c8b817d1d3",
   "pins" : [
     {
       "identity" : "flow",
@@ -11,12 +11,12 @@
       }
     },
     {
-      "identity" : "helpers",
+      "identity" : "mphelpers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/toastersocks/Helpers.git",
+      "location" : "https://github.com/skumancer/MPHelpers/",
       "state" : {
-        "revision" : "05bbf887ec0b235c14be6d13de61a04fc65a1ddc",
-        "version" : "1.0.1"
+        "branch" : "main",
+        "revision" : "a55b49e2ebc94981a6fbd2ad0d261a4b698748aa"
       }
     }
   ],
